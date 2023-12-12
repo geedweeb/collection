@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CollectionApp</string>
+    <string-array name="choose">
+        <item>Да</item>
+        <item>Нет</item>
+    </string-array>
+</resources>
